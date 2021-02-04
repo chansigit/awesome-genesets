@@ -1,4 +1,4 @@
-# genesets
+# awesome-genesets
 ---
 This repository holds gene sets curated from Gene Ontology, MSigDB, etc.
 
